@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GameQuest Tracker"
 include(":app")
- 
+include(":macrobenchmark")
